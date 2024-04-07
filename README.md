@@ -8,4 +8,4 @@ data_cleaner.ipynb : is a jupyter notebook that we used to wrangle and clean our
 dino_data_cleaned.csv : is the cleaned data as a result of wrangling from the data_cleaner notebook. <br>
 
 Diet_Analysis.ipynb : using our cleaned data, we analyzed the relation or possible correlation between a dinosaur's diet and their average lifespan and size. <br>
-TypePeriod_Analysis.ipynb : using our cleaned data, we analyzed ... <br>
+TypePeriod_Analysis.ipynb : using our cleaned data, we analyzed whether the midpoint of a dinosaur's existence relates to their length. <br>
